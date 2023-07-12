@@ -1,6 +1,6 @@
 package wrapperClassInJava;
 //
-public class WrapperClassJava {
+public class WrapperClass {
 //
 //    // Integer
 //
