@@ -1,6 +1,6 @@
-//package wrapperClassInJava;
+package wrapperClassInJava;
 //
-//public class WrapperClassJava {
+public class WrapperClassJava {
 //
 //    // Integer
 //
@@ -11,7 +11,7 @@
 //
 //
 //
-//    public static void main(String[] args) {
+    public static void main(String[] args) {
 //
 //        int number = 42;
 //        Integer wrapperNumber = Integer.valueOf(number); //wrapping int value
@@ -37,7 +37,7 @@
 //        int result = fibonacci(10);  // Calculates the 6th Fibonacci number
 //        System.out.println(result);  // Output: 8
 //
-//    }
+    }
 //
 //    // JAVA Recursion -- a method calling itself infinite
 //    //  The Fibonacci series is a sequence of numbers where each number is the sum
@@ -64,4 +64,4 @@
 //
 //
 //
-//}
+}
